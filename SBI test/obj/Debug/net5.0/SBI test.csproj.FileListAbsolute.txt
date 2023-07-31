@@ -1,0 +1,37 @@
+C:\Users\Usuario\Desktop\SBI test\obj\Debug\net5.0\SBI test.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\SBI test\obj\Debug\net5.0\SBI test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\SBI test\obj\Debug\net5.0\SBI test.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\SBI test\obj\Debug\net5.0\SBI test.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\SBI test\obj\Debug\net5.0\SBI test.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SBI test\obj\Debug\net5.0\SBI test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\SBI test\obj\Debug\net5.0\SBI test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\appsettings.json
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\SBI test.exe
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\SBI test.deps.json
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\SBI test.runtimeconfig.json
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\SBI test.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\SBI test.dll
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\SBI test.pdb
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\MediatR.dll
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\SBI test\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\SBI test\obj\Debug\net5.0\scopedcss\bundle\SBI test.styles.css
+C:\Users\Usuario\Desktop\SBI test\obj\Debug\net5.0\staticwebassets\SBI test.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\SBI test\obj\Debug\net5.0\SBI test.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\SBI test\obj\Debug\net5.0\SBI test.csproj.CopyComplete
+C:\Users\Usuario\Desktop\SBI test\obj\Debug\net5.0\SBI test.dll
+C:\Users\Usuario\Desktop\SBI test\obj\Debug\net5.0\refint\SBI test.dll
+C:\Users\Usuario\Desktop\SBI test\obj\Debug\net5.0\SBI test.pdb
+C:\Users\Usuario\Desktop\SBI test\obj\Debug\net5.0\SBI test.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\SBI test\obj\Debug\net5.0\ref\SBI test.dll
